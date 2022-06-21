@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Titirsen99
-- 👀 I’m interested in ...DSA,ML
+- 👋 Hi, I’m Shreya sen
+- 👀 I’m interested in ...DSA,ML,os,Ai
 - 🌱 I’m currently learning ...C++,JAVA,PYTHON 
 - 💞️ I’m looking to collaborate on ...INSTAGRAM 
 - 📫 How to reach me ...this_is_shreya_sen (insta id)
