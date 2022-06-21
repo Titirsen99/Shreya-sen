@@ -1,1 +1,19 @@
-
+//Linear search
+Public class searching{
+Public static void main(string[]args){
+int[]nums={23,67,89,45,88,17,65,55,34};
+int target=17;
+int ans= linearsearch(num,target);
+}
+Static int linearsearch (int[]arr,int target){
+if(arr.length==0){
+return -1;
+}
+for(index=0;index<arr.length;index++){
+int element = arr[index];
+ if(element==target){
+   return index;
+}
+} 
+   return -1;
+}
